@@ -1,3 +1,5 @@
 output/**
 *.glsl.inc
 
+/bin
+/platform/windows/_intermediate
